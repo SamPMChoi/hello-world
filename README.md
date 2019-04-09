@@ -1,3 +1,3 @@
 # hello-world
-Learning how to use github
-this is a new line
+The first line is replaced.
+This is an additional line.
